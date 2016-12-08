@@ -1,22 +1,20 @@
-Änfäng
-Däs hier äöüß ist ein Test
-was ganz anderes
+1. Änfäng
+2. Däs hier äöüß ist ein Test
+3. was ganz anderes
 
-Wir brauchen mehr Inhalte
+4. Wir brauchen mehr Inhalte
 
-hallo hier kommt noch mehr
-Däs hier äüch
+5. hallo hier kommt noch mehr
+6. Däs hier äüch
 
-Tschüss
-
-
+7. Tschüss
 
 
 
 
 
 
-
+...
 
 
 
@@ -24,4 +22,6 @@ Tschüss
 
 
 
-Blaukraut bleibt Blaukraut und Brautkleid bleibt Brautkleid
+
+
+1000. Blaukraut bleibt Blaukraut und Brautkleid bleibt Brautkleid
